@@ -18,6 +18,6 @@ Be sure to have node js installed.
 `npm start`
 
 type the URL (https://www.google.com) and click enter.
-this should download the entire site to /website-downloader/www.google.com/
+this should download the entire site to /website-downloader/node-website/www.google.com/
 
 Use responsably.
