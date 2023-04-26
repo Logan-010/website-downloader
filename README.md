@@ -6,6 +6,13 @@ A website scraper with the ability to download an entire webpage.
 
 ### Installation
 
+#### SINGLE LINE INSTALL
+
+Windows, Linux, and Mac:
+```
+git clone https://github.com/Logan-010/website-downloader && cd website-downloader && npm i && npm start
+```
+
 First run
 
 `git clone https://github.com/Logan-010/website-downloader`
